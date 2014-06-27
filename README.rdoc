@@ -1,0 +1,15 @@
+1. Create Product, Category, Cart, LineItem
+
+2. Make associations
+
+3. root route -> categories#index or map to something else
+
+4. categories/index show all categories and products for respective categories
+
+5. Add to cart button using the line_items form.
+
+6. Add a hidden_field for product_id
+
+7. In the line_items#create... add code to put cart_id, quantity and price...
+
+8. Display the cart
